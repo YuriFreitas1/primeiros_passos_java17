@@ -20,5 +20,6 @@ public class Teste {
                 """.formatted(filme, sinopse, disponivel, nota);
         System.out.println(descricao);
         //System.out.println(String.format("Filme: %s. disponibilidade: %s. Nota: %.2f",filme,disponibilidade,nota ));
+        //commit teste
     }
 }
